@@ -3,6 +3,7 @@ I have used a pgAdmin to use PostgreSQL database.
 Discription of each queries mentions below.
 
 Query--(1)--SELECT and WHERE
+
 This query retrieves the first and last names of actors whose first name is 'Johnny'. 
 It helps to identify actors who share the same first name in the database.
 
